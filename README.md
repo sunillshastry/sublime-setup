@@ -69,3 +69,5 @@
 * `SublimeAStyleFormatter` - [Docs](https://theo.im/SublimeAStyleFormatter/)
 
 * `SublimeLinter-cpplint` - [Docs](https://github.com/SublimeLinter/SublimeLinter-cpplint)
+
+* `SublimeLinter-javac` - [Docs](https://github.com/SublimeLinter/SublimeLinter-javac)
