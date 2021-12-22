@@ -57,3 +57,5 @@
 * `Clang Format` - [Docs](https://github.com/rosshemsley/SublimeClangFormat)
 
 * `CMake` - [Docs](https://github.com/zyxar/Sublime-CMakeLists)
+
+* `Emmet` - [Docs](https://emmet.io/)
