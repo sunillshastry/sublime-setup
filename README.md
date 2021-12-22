@@ -41,3 +41,5 @@
 * `Brackets Color Scheme` - [Docs](https://github.com/jwortmann/brackets-color-scheme)
 
 * `C Improved` - [Docs](https://packagecontrol.io/packages/C%20Improved)
+
+* `C++ Classhelper` - [Docs](https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin)
