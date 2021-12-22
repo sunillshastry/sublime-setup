@@ -2,7 +2,7 @@
 
 #### To download Sublime Text, click [here](https://www.sublimetext.com/)
 
-### A summary of all the *personal* preferences, extensions and themes used for Sublime Text for web and Python development.
+### A summary of all the *personal* preferences, extensions and themes used for Sublime Text for web and Python development. The extensions included below are solely relevant to C, C++, Web Development, Java and Python programming languages, along with a few themes and accessability packages that are helpful for better IDE-like environment.
 
 ## Extensions
 
