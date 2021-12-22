@@ -39,3 +39,5 @@
 * `BracketHighlighter` - [Docs](https://facelessuser.github.io/BracketHighlighter/)
 
 * `Brackets Color Scheme` - [Docs](https://github.com/jwortmann/brackets-color-scheme)
+
+* `C Improved` - [Docs](https://packagecontrol.io/packages/C%20Improved)
