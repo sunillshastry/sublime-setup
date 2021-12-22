@@ -63,3 +63,5 @@
 * `FileIcons` - [Docs](https://packagecontrol.io/packages/FileIcons)
 
 * `Javatar` - [Docs](https://javatar.readthedocs.io/en/latest/)
+
+* `RainbowBrackets` - [Docs](https://github.com/absop/RainbowBrackets)
