@@ -67,3 +67,5 @@
 * `RainbowBrackets` - [Docs](https://github.com/absop/RainbowBrackets)
 
 * `SublimeAStyleFormatter` - [Docs](https://theo.im/SublimeAStyleFormatter/)
+
+* `SublimeLinter-cpplint` - [Docs](https://github.com/SublimeLinter/SublimeLinter-cpplint)
