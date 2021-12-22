@@ -45,3 +45,5 @@
 * `C++ Classhelper` - [Docs](https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin)
 
 * `C++ Completions` - [Docs](https://github.com/tushortz/CPP-Completions)
+
+* `C++ Snippets` - [Docs](https://github.com/Rapptz/cpp-sublime-snippet)
