@@ -55,3 +55,5 @@
 * `C11` - [Docs](https://github.com/petervaro/C11)
 
 * `Clang Format` - [Docs](https://github.com/rosshemsley/SublimeClangFormat)
+
+* `CMake` - [Docs](https://github.com/zyxar/Sublime-CMakeLists)
