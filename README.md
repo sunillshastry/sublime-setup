@@ -37,3 +37,5 @@
 * `zzz A File Icon zzz` - No docs.
 
 * `BracketHighlighter` - [Docs](https://facelessuser.github.io/BracketHighlighter/)
+
+* `Brackets Color Scheme` - [Docs](https://github.com/jwortmann/brackets-color-scheme)
