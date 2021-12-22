@@ -65,3 +65,5 @@
 * `Javatar` - [Docs](https://javatar.readthedocs.io/en/latest/)
 
 * `RainbowBrackets` - [Docs](https://github.com/absop/RainbowBrackets)
+
+* `SublimeAStyleFormatter` - [Docs](https://theo.im/SublimeAStyleFormatter/)
