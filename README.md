@@ -43,3 +43,5 @@
 * `C Improved` - [Docs](https://packagecontrol.io/packages/C%20Improved)
 
 * `C++ Classhelper` - [Docs](https://github.com/pr0grammr/cppclasshelper-sublime-text-plugin)
+
+* `C++ Completions` - [Docs](https://github.com/tushortz/CPP-Completions)
