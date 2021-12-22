@@ -73,3 +73,5 @@
 * `SublimeLinter-javac` - [Docs](https://github.com/SublimeLinter/SublimeLinter-javac)
 
 * `Theme - Monokai Pro` - [Docs](https://monokai.pro/)
+
+* `TypeScript` - [Docs](https://www.typescriptlang.org/)
