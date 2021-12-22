@@ -49,3 +49,5 @@
 * `C++ Snippets` - [Docs](https://github.com/Rapptz/cpp-sublime-snippet)
 
 * `C++11` - [Docs](https://github.com/noct/sublime-cpp11)
+
+* `C++NamespaceTool` - [Docs](https://github.com/myurtoglu/NamespaceTool)
