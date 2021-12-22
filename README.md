@@ -61,3 +61,5 @@
 * `Emmet` - [Docs](https://emmet.io/)
 
 * `FileIcons` - [Docs](https://packagecontrol.io/packages/FileIcons)
+
+* `Javatar` - [Docs](https://javatar.readthedocs.io/en/latest/)
