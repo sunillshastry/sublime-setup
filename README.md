@@ -59,3 +59,5 @@
 * `CMake` - [Docs](https://github.com/zyxar/Sublime-CMakeLists)
 
 * `Emmet` - [Docs](https://emmet.io/)
+
+* `FileIcons` - [Docs](https://packagecontrol.io/packages/FileIcons)
