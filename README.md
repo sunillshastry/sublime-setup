@@ -51,3 +51,5 @@
 * `C++11` - [Docs](https://github.com/noct/sublime-cpp11)
 
 * `C++NamespaceTool` - [Docs](https://github.com/myurtoglu/NamespaceTool)
+
+* `C11` - [Docs](https://github.com/petervaro/C11)
