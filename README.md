@@ -8,7 +8,7 @@
 
 * `AFileIcon` -  [Docs](https://github.com/SublimeText/AFileIcon)
 
-* `ColorHighlight` - [Docs](https://github.com/Kronuz/ColorHighlight)
+* `Color Highlight` - [Docs](https://github.com/Kronuz/ColorHighlight)
 
 * `GitGutter` - [Docs](https://github.com/jisaacks/GitGutter)
 
