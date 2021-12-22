@@ -53,3 +53,5 @@
 * `C++NamespaceTool` - [Docs](https://github.com/myurtoglu/NamespaceTool)
 
 * `C11` - [Docs](https://github.com/petervaro/C11)
+
+* `Clang Format` - [Docs](https://github.com/rosshemsley/SublimeClangFormat)
