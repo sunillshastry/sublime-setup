@@ -47,3 +47,5 @@
 * `C++ Completions` - [Docs](https://github.com/tushortz/CPP-Completions)
 
 * `C++ Snippets` - [Docs](https://github.com/Rapptz/cpp-sublime-snippet)
+
+* `C++11` - [Docs](https://github.com/noct/sublime-cpp11)
